@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UnitConvertor</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="convert_distance">Convert Distance</string>
+    <string name="title_activity_distance">DistanceActivity</string>
+    <string name="distance">Distance</string>
+    <string name="miles">Miles</string>
+    <string name="kilometers">Kilometers</string>
+    <string name="title_activity_temperature">TemperatureActivity</string>
+    <string name="temperature">Temperature</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="celsius">Celsius</string>
+    <string name="title_activity_weight">WeightActivity</string>
+    <string name="weight">Weight</string>
+    <string name="pounds">Pounds</string>
+    <string name="kilograms">Kilograms</string>
+    <string name="convert_weight">Convert Weight</string>
+    <string name="convert_temperature">Convert Temperature</string>
+
+</resources>
